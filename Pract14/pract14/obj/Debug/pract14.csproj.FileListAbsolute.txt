@@ -1,0 +1,14 @@
+C:\Users\305-11\source\repos\pract14\pract14\bin\Debug\pract14.exe.config
+C:\Users\305-11\source\repos\pract14\pract14\bin\Debug\pract14.exe
+C:\Users\305-11\source\repos\pract14\pract14\bin\Debug\pract14.pdb
+C:\Users\305-11\source\repos\pract14\pract14\obj\Debug\pract14.csproj.AssemblyReference.cache
+C:\Users\305-11\source\repos\pract14\pract14\obj\Debug\pract14.csproj.CoreCompileInputs.cache
+C:\Users\305-11\source\repos\pract14\pract14\obj\Debug\pract14.exe
+C:\Users\305-11\source\repos\pract14\pract14\obj\Debug\pract14.pdb
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\bin\Debug\pract14.exe.config
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\bin\Debug\pract14.exe
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\bin\Debug\pract14.pdb
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\obj\Debug\pract14.csproj.AssemblyReference.cache
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\obj\Debug\pract14.csproj.CoreCompileInputs.cache
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\obj\Debug\pract14.exe
+C:\Users\305-11\Desktop\shvets\Pract14\pract14\obj\Debug\pract14.pdb
